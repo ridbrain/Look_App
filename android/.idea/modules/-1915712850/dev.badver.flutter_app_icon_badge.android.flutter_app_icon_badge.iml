@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":flutter_app_icon_badge" external.linked.project.path="$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="dev.badver.flutter_app_icon_badge" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":flutter_app_icon_badge" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="7.0.3" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.0.3" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/flutter_app_icon_badge/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/flutter_app_icon_badge/intermediates/compile_r_class_jar/debug/R.jar:/Users/ridbrain/.gradle/caches/transforms-3/c167577d82697678e9a28a705426244e/transformed/jetified-flutter_embedding_debug-1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6.jar:/Users/ridbrain/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/120bd4ba6e0cd4f7eb9f1ee938e7655d/transformed/fragment-1.1.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/98cd44dac8d71bef4da4f2b31534eeef/transformed/viewpager-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/fad3fcefef6719b5b4f132d926493ecd/transformed/loader-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/6dcda5bd1b933f230a40db0524fa4fc5/transformed/jetified-activity-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/5ccc1ab824cecba62f54b04634107af1/transformed/customview-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/436700eba5afcb3f5eeaab1354153f5f/transformed/core-1.6.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/31566c363ee23586698396c1791c2da7/transformed/lifecycle-runtime-2.2.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/a02291953b3979bf126e0c5f4496f78a/transformed/jetified-savedstate-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/bd36f319ea24719c4d4eb07387e820e8/transformed/lifecycle-livedata-2.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/3366d962a7a9f7a6b124798011559a54/transformed/lifecycle-livedata-core-2.0.0-api.jar:/Users/ridbrain/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/0a84b72d3ddfe4351249843f291b6d0e/transformed/core-runtime-2.0.0-api.jar:/Users/ridbrain/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/cb3d6c656276c34b1ecb3ad51fa9b6c4/transformed/versionedparcelable-1.1.1-api.jar:/Users/ridbrain/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/a607af1a45ed4886736eb808e46bfea9/transformed/lifecycle-viewmodel-2.1.0-api.jar:/Users/ridbrain/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/148610df5ed2e001df642790a9244571/transformed/jetified-annotation-experimental-1.1.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/5021cd6d11aff1b4c35ee983f3ace6bc/transformed/jetified-tracing-1.0.0-api.jar:/Users/ridbrain/.gradle/caches/transforms-3/d58c0051e561b4a3b65c882c4e7e737e/transformed/jetified-kotlin-stdlib-jdk7-1.3.50.jar:/Users/ridbrain/.gradle/caches/transforms-3/aa5a13bb92189accce47205cdf2ac2a9/transformed/jetified-kotlin-stdlib-1.3.50.jar:/Users/ridbrain/.gradle/caches/transforms-3/a0e96688714119a458f89f47046656a3/transformed/jetified-kotlin-stdlib-common-1.3.50.jar:/Users/ridbrain/.gradle/caches/transforms-3/774f5bf006b743d08c4c87135cdf45c9/transformed/jetified-annotations-13.0.jar:/Users/ridbrain/.gradle/caches/transforms-3/ec85fe6e7866d9a17b4eee51d5aad2ce/transformed/jetified-ShortcutBadger-1.1.22-api.jar:/Users/ridbrain/Library/Android/sdk/platforms/android-30/android.jar:/Users/ridbrain/Library/Android/sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="flutter_app_icon_badge_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/src/main/res;file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/src/debug/res;file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/src/androidTest/res;file://$USER_HOME$/Development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_app_icon_badge/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0">
+      <sourceFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/android/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/example/.dart_tool" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/example/build" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/example/.pub" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/build" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/.pub" />
+      <excludeFolder url="file://$USER_HOME$/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_app_icon_badge-2.0.0/.dart_tool" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-890a5fca2e34db413be624fc83aeea8e61d42ce6" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.tracing:tracing:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: me.leolin:ShortcutBadger:1.1.22@aar" level="project" />
+  </component>
+</module>

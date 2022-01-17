@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.play:core:1.10.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/d72ba89b74789d43436bb6d61ffbd338/transformed/jetified-core-1.10.0/annotations.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/a2cdb6382cb2ff2ea48ce5a72fd7089a/transformed/jetified-core-1.10.0/annotations.zip!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/9eaa6ada1bce8db8e6eb68eaff000e2d/transformed/jetified-core-1.10.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70b592f68fcad02090b852a2907f4e2f/transformed/jetified-core-1.10.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f8625e989f5a10032e37aeac6818481/transformed/jetified-core-1.10.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/d72ba89b74789d43436bb6d61ffbd338/transformed/jetified-core-1.10.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/d72ba89b74789d43436bb6d61ffbd338/transformed/jetified-core-1.10.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/d72ba89b74789d43436bb6d61ffbd338/transformed/jetified-core-1.10.0/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/a2cdb6382cb2ff2ea48ce5a72fd7089a/transformed/jetified-core-1.10.0/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/9eaa6ada1bce8db8e6eb68eaff000e2d/transformed/jetified-core-1.10.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/9eaa6ada1bce8db8e6eb68eaff000e2d/transformed/jetified-core-1.10.0/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/9eaa6ada1bce8db8e6eb68eaff000e2d/transformed/jetified-core-1.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70b592f68fcad02090b852a2907f4e2f/transformed/jetified-core-1.10.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/70b592f68fcad02090b852a2907f4e2f/transformed/jetified-core-1.10.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/70b592f68fcad02090b852a2907f4e2f/transformed/jetified-core-1.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f8625e989f5a10032e37aeac6818481/transformed/jetified-core-1.10.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/8f8625e989f5a10032e37aeac6818481/transformed/jetified-core-1.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/8f8625e989f5a10032e37aeac6818481/transformed/jetified-core-1.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/modules-2/files-2.1/com.google.android.play/core/1.10.0/a451746b029f0ab32986925c6547a91b8abc76dd/core-1.10.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.play/core/1.10.0/a451746b029f0ab32986925c6547a91b8abc76dd/core-1.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>984981641808-kp9du69q7ggk5r6m71mlak6gp9s7vjbl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.984981641808-kp9du69q7ggk5r6m71mlak6gp9s7vjbl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>984981641808-h6qpmlmtpnrc1cghhnd4mplg0g9pvi51.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkz0Kz81bzBwHeFIyBPwNFMzmeeHNmnYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>984981641808</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.ridbrain.yakrasota</string>
+	<key>PROJECT_ID</key>
+	<string>ibeauty-one</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ibeauty-one.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:984981641808:ios:b642edb3929eb5a5894f55</string>
+	<key>DATABASE_URL</key>
+	<string>https://ibeauty-one.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "984981641808",
+    "firebase_url": "https://ibeauty-one.firebaseio.com",
+    "project_id": "ibeauty-one",
+    "storage_bucket": "ibeauty-one.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984981641808:android:dbe8e1d0460111ee",
+        "android_client_info": {
+          "package_name": "com.ridbrain.ibeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984981641808-1060cdrh8n40kp20kvhur3icjvcb11ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridbrain.ibeauty",
+            "certificate_hash": "d91ba3304f8fed448fc31750c8510de218ac17cb"
+          }
+        },
+        {
+          "client_id": "984981641808-r36nco9dasmtk393k52u1sa32l2d1o7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ridbrain.ibeauty",
+            "certificate_hash": "168a53107976463536a332fab33b4d5c6dcd77cb"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdbI3L9MXON_KITaKHhJNyhZmxEU77Zpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984981641808-kp9du69q7ggk5r6m71mlak6gp9s7vjbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ru.ridbrain.yakrasota",
+                "app_store_id": "1495399647"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

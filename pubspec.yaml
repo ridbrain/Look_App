@@ -1,0 +1,57 @@
+name: look_app
+description: A new iBeauty
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  firebase_core: ^1.10.0
+  firebase_analytics: ^8.3.4
+  firebase_messaging: ^11.1.0
+  firebase_auth: ^3.2.0
+
+  http: ^0.13.4
+  provider: ^6.0.1
+  path_provider: ^2.0.6
+
+  dismissible_page: ^0.6.4
+  cached_network_image: ^3.1.0
+  line_icons: ^2.0.1
+  flutter_group_sliver: "^0.0.2"
+  url_launcher: ^6.0.6
+  google_maps_flutter: ^2.1.0
+  animated_size_and_fade: ^2.1.0
+  atob_animation: ^0.0.1
+  animated_check: ^1.0.0
+  flutter_share: ^2.0.0
+  package_info_plus: ^1.3.0
+  advance_pdf_viewer: ^2.0.1
+  animated_widgets: ^1.1.0
+  shared_preferences: ^2.0.7
+  flutter_app_icon_badge: ^2.0.0
+  geolocator: ^7.7.1
+  in_app_review: ^2.0.3
+  intl: ^0.17.0
+  searchfield: ^0.5.6
+  smartlook: ^2.0.1
+  dotted_line: ^3.1.0
+  table_calendar: ^3.0.2
+  overlay_support: ^1.2.1
+  show_up_animation: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/

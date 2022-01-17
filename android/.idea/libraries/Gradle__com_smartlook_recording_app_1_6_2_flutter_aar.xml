@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.smartlook.recording:app:1.6.2-flutter@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/3f4dbfc1c4c2381a803e44b32624534d/transformed/jetified-app-1.6.2-flutter/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/3f4dbfc1c4c2381a803e44b32624534d/transformed/jetified-app-1.6.2-flutter/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/jre/Contents/Home/caches/transforms-3/3f4dbfc1c4c2381a803e44b32624534d/transformed/jetified-app-1.6.2-flutter/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68097f02a479db18c37eb13aff49744a/transformed/jetified-app-1.6.2-flutter/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/68097f02a479db18c37eb13aff49744a/transformed/jetified-app-1.6.2-flutter/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/68097f02a479db18c37eb13aff49744a/transformed/jetified-app-1.6.2-flutter/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/574e02ad7b46d61ebf4d5ebc7ef5aa1c/transformed/jetified-app-1.6.2-flutter/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/574e02ad7b46d61ebf4d5ebc7ef5aa1c/transformed/jetified-app-1.6.2-flutter/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/574e02ad7b46d61ebf4d5ebc7ef5aa1c/transformed/jetified-app-1.6.2-flutter/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
